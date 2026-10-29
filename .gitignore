@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment and secrets
+.env
+.venv
+env/
+venv/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
